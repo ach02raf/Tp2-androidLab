@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TP3 Bis</string>
+    <string name="app_btn">SEND</string>
+    <string name="app_btn1">REPLY</string>
+    <string name="app_msg">Message recu</string>
+    <string name="app_msgE">Chaine vide !</string>
+
+
+
+</resources>
